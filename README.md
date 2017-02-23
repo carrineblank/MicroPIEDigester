@@ -22,12 +22,12 @@ gram stain type
 internal features
 motility
 pigment compounds
-nacl minimum
-nacl optimum
-nacl maximum
-ph minimum
-ph optimum
-ph maximum
+NaCl minimum
+NaCl optimum
+NaCl maximum
+pH minimum
+pH optimum
+pH maximum
 temperature minimum
 temperature optimum
 temperature maximum

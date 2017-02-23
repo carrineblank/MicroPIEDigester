@@ -10,42 +10,5 @@ Citation: Blank CE, Moore LR, Thacker RW, Cui H, Mao J.  2017.  A semi-automated
 
 MicroPIEDigester is invoked at the command line by typing 'perl MicroPIEDigester.pl infile' where the infile is a character matrix in text format.
 
-MicroPIEDigester version 1.0 was created to code character information for the Bacteroidetes.  Characters types are:
-median mol %g+c
-cell shape
-mean cell length
-max cell length
-mean cell width
-max cell width
-cell relationships&aggregations
-gram stain type
-internal features
-motility
-pigment compounds
-NaCl minimum
-NaCl optimum
-NaCl maximum
-pH minimum
-pH optimum
-pH maximum
-temperature minimum
-temperature optimum
-temperature maximum
-aerophilicity
-magnesium requirement for growth
-vitamins and cofactors required for growth
-antibiotic sensitivity
-antibiotic resistant
-colony shape
-colony margin
-colony texture
-colony color
-fermentation products
-other metabolic product
-haemolytic&haemadsorption properties
-organic compounds used or hydrolyzed
-organic compounds not used or not hydrolyzed
-inorganic substances used
-inorganic substances not used
-fermentation substrates used
-fermentation substrates not used
+MicroPIEDigester version 1.0 was created to code character information for the Bacteroidetes.  Processes the following characters types:
+median mol %g+c, cell shape, mean cell length, max cell length, mean cell width, max cell width, cell relationships&aggregations, gram stain type, internal features, motility, pigment compounds, NaCl minimum, NaCl optimum, NaCl maximum, pH minimum, pH optimum, pH maximum, temperature minimum, temperature optimum, temperature maximum, aerophilicity, magnesium requirement for growth, vitamins and cofactors required for growth, antibiotic sensitivity, antibiotic resistant, colony shape, colony margin, colony texture, and colony color.

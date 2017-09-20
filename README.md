@@ -23,8 +23,20 @@ MicroPIEDigester was expanded to extract phenotypic character for the physiologi
 
 Version 1.3 (released Sept 7, 2017):
 MicroPIEDIgester was expanded in several ways:
-The antibiotic resistance/sensitivity and physiological test characters were combined.
+The antibiotic resistance/sensitivity and physiological test positive/negative characters were combined.
 Pigment compounds category duplication was corrected
 Added character categories: cell length, cell width, external features, organic compounds used, organic compounds not used, inorganic compounds used, inorganic compounds not used, fermentation substrates used, fermentation substrates not used.
 Digester was expanded to extract phenotypic characters from a collection of 1500 Firmicutes, matrices were direct output of MicroPIE version 0.2.
+
+Version 1.4 (released Sept 19, 2017):
+The fermentation substrates used/not used categories were combined into a single nexus file.
+The organic substrates used/not used categories were combined into a single nexus file.
+The inorganic substrates used/not used categories were combined into a single nexus file.
+Organic compounds used and Inorganic compounds used extracted by physiological tests positive were moved to their respective categories.
+Organic compounds not used and Inorganic compounds not used extracted by physiological tests negative were moved to their respective categories.
+Output for fermentation substrates used was exported to the organic substrates used category.
+Output for fermentation substrates not used was exported to the organic substrates not used category.
+
+
+
 
